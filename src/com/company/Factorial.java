@@ -7,6 +7,7 @@ public class Factorial {
         for (int i = 1; i <=num ; i++) {
             factorial=factorial*i;
         }
+        // John is learning Java.
         // Iterations of above for loop.
         // 1. factorial=1, num=4, i=1
         // 2. factorial=1, num=4, i=2
